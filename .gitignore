@@ -32,6 +32,7 @@ config/config.local.php
 /static/cache
 /static/emotes
 /static/flairs
+/static/*
 
 /config/*.pem
 /config/*.csr
