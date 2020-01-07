@@ -46,7 +46,7 @@ return [
         '/schedule' => 'https://www.google.com/calendar/embed?src=i54j4cu9pl4270asok3mqgdrhk%40group.calendar.google.com',
         '/shirt' => 'https://www.designbyhumans.com/shop/Profrisky/',
         '/forge' => 'https://bit.ly/ForgeDestiny',
-        '/facebook' => 'https://www.facebook.com/profrisky',
+        '/facebook' => 'https://www.facebook.com/ProFriskyy/',
         '/youtube' => 'https://www.youtube.com/channel/UCFOeKQ4HMiThcLXFTYYYBOA',
         '/reddit' => 'https://www.reddit.com/r/profrisky',
         '/github' => 'https://github.com/destinygg',
@@ -64,6 +64,6 @@ return [
         '/podcast' => 'https://destiny.libsyn.com/',
         '/podcastrss' => 'https://destiny.libsyn.com/rss',
         '/shop' => 'https://www.designbyhumans.com/shop/Profrisky',
-        '/discord' => 'https://discordapp.com/invite/destiny',
+        '/discord' => 'https://discord.gg/Jh2m2wT',
     ]
 ];
