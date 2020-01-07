@@ -6,17 +6,17 @@
 ////////////////////////
 return [
 
-    'support_email' => 'steven.bonnell.ii@gmail.com',
-    'calendar'      => 'i54j4cu9pl4270asok3mqgdrhk@group.calendar.google.com',
-    'commerce'      => ['receiver_email' => 'Steven.Bonnell.II@GMail.com'],
-    'embed'         => ['stream' => 'https://player.twitch.tv/?channel=destiny'],
-    'reddit'        => ['threads' => 'https://www.reddit.com/r/destiny/hot.json'],
-    'blog'          => ['feed' => 'https://blog.destiny.gg/feed/json'],
+    'support_email' => 'contact@profrisky.co.uk',
+    'calendar'      => '',
+    'commerce'      => ['receiver_email' => 'contact@profrisky.co.uk'],
+    'embed'         => ['stream' => 'https://player.twitch.tv/?channel=profrisky'],
+    'reddit'        => ['threads' => 'https://www.reddit.com/r/profrisky/hot.json'],
+    'blog'          => ['feed' => 'https://blog.profrisky.co.uk/feed/json'],
     'android'       => ['app' => 'gg.destiny.app.chat'],
 
     'twitch' => [
-        'id' => 18074328,
-        'user' => 'destiny',
+        'id' => 50945352,
+        'user' => 'profrisky',
     ],
     'streamelements' => [
         'dgg_user' => 10
@@ -29,26 +29,26 @@ return [
     ],
 
     'meta' => [
-        'shortName'      => 'Destiny.gg',
-        'title'          => 'Destiny - Steven Bonnell II',
-        'domain'         => 'www.destiny.gg',
-        'author'         => 'Steven Bonnell II',
-        'description'    => 'Steven (Destiny) Bonnell II is a professional streamer, primarily playing games, but will often venture off into other topics, including but not limited to: philosophy, youtube videos, music and all sorts of wonderful pseudo-intellectualism.',
-        'keywords'       => 'Steven Bonnell,Destiny,Destiny.gg,StarCraft,StarCraft2,Counter Strike,CS:GO,League of Legends,Hearth Stone,streamer,stream,game,pc,build a box,twitch,tv,twitch.tv',
-        'video'          => 'http://www-cdn.jtvnw.net/widgets/live_facebook_embed_player.swf?channel=destiny',
-        'videoSecureUrl' => 'https://secure.jtvnw.net/widgets/live_facebook_embed_player.swf?channel=destiny',
-        'image'          => 'https://static-cdn.jtvnw.net/jtv_user_pictures/destiny-profile_image-951fd53950bc2f8b-300x300.png'
+        'shortName'      => 'Profrisky.co.uk',
+        'title'          => 'Profrisky - Scottish Game Streamer',
+        'domain'         => 'profrisky.co.uk',
+        'author'         => 'Gary McDonald',
+        'description'    => 'Gary (Profrisky) McDonald is a streamer, primarily playing games such as CS:GO, Fallout and other Top Titles on PC.',
+        'keywords'       => 'Gary McDonald,ProFrisky,Profrisky.co.uk,Counter Strike,CS:GO,League of Legends,Hearth Stone,streamer,stream,game,pc,twitch,tv,twitch.tv',
+        'video'          => 'http://www-cdn.jtvnw.net/widgets/live_facebook_embed_player.swf?channel=profrisky',
+        'videoSecureUrl' => 'https://secure.jtvnw.net/widgets/live_facebook_embed_player.swf?channel=profrisky',
+        'image'          => 'https://static-cdn.jtvnw.net/jtv_user_pictures/profrisky-profile_image-951fd53950bc2f8b-300x300.png'
     ],
 
     'links' => [
         '/ting' => 'https://ting.7eer.net/c/72409/87559/2020',
         '/eve' => 'https://secure.eveonline.com/trial/?invc=7a8cfcda-5915-4297-9cf9-ed898d984ff2&action=buddy',
         '/schedule' => 'https://www.google.com/calendar/embed?src=i54j4cu9pl4270asok3mqgdrhk%40group.calendar.google.com',
-        '/shirt' => 'https://www.designbyhumans.com/shop/Destiny/',
+        '/shirt' => 'https://www.designbyhumans.com/shop/Profrisky/',
         '/forge' => 'https://bit.ly/ForgeDestiny',
-        '/facebook' => 'https://www.facebook.com/OmniDestiny',
-        '/youtube' => 'https://www.youtube.com/user/Destiny',
-        '/reddit' => 'https://www.reddit.com/r/Destiny',
+        '/facebook' => 'https://www.facebook.com/profrisky',
+        '/youtube' => 'https://www.youtube.com/channel/UCFOeKQ4HMiThcLXFTYYYBOA',
+        '/reddit' => 'https://www.reddit.com/r/profrisky',
         '/github' => 'https://github.com/destinygg',
         '/twitch' => 'https://www.twitch.tv/destiny',
         '/lastfm' => 'http://www.last.fm/user/StevenBonnellII',
@@ -63,7 +63,7 @@ return [
         '/instagram' => 'https://www.instagram.com/destiny/',
         '/podcast' => 'https://destiny.libsyn.com/',
         '/podcastrss' => 'https://destiny.libsyn.com/rss',
-        '/shop' => 'https://www.designbyhumans.com/shop/Destiny',
+        '/shop' => 'https://www.designbyhumans.com/shop/Profrisky',
         '/discord' => 'https://discordapp.com/invite/destiny',
     ]
 ];

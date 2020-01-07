@@ -6,7 +6,7 @@ use Destiny\Common\Session\Session;
 <div id="main-nav" class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
 
-        <a class="brand float-left" href="/">Destiny.gg</a>
+        <a class="brand float-left" href="/">Profrisky.co.uk</a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsemenu" aria-controls="collapsemenu" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
