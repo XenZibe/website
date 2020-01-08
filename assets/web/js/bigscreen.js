@@ -118,7 +118,7 @@ import $ from 'jquery'
     let streamframe = $body.find('#stream-panel iframe')
     const hashregex = /^#(twitch|twitch-vod|twitch-clip|youtube)\/([A-z0-9_\-]{3,64})$/
     const streamInfo = {live: false, host: null, preview: null},
-        embedInfo = {embed: false, platform: 'twitch', title: 'Bigscreen', name: 'destiny', id: null, url: '/bigscreen'},
+        embedInfo = {embed: false, platform: 'twitch', title: 'Bigscreen', name: 'profrisky', id: null, url: '/bigscreen'},
         defaultEmbedInfo = Object.assign({}, embedInfo),
         navpillclasses = ['embedded','hidden','hosting','online','offline'],
         navhostpill = {container: $body.find('#nav-host-pill')},
@@ -162,7 +162,7 @@ import $ from 'jquery'
                 navhostpill.icon.html(iconTwitch)
             } else {
                 navhostpill.left.text(streamInfo.live ? 'LIVE' : 'OFFLINE')
-                navhostpill.right.text('Destiny')
+                navhostpill.right.text('Profrisky')
                 navhostpill.icon.html(iconTwitch)
             }
         } else {
