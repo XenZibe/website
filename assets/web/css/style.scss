@@ -286,7 +286,7 @@ section > #alerts-static > .alert {
   }
 }
 body.no-brand .navbar-dark .navbar-nav .nav-link {
-  color: white;
+  color: #0e0e10;
 }
 
 .dropdown-menu {
@@ -498,7 +498,7 @@ body.no-brand .navbar-dark .navbar-nav .nav-link {
     color: $text-color1;
   }
   a:hover {
-    color: white;
+    color: $color-accent;
     text-decoration: none;
   }
   .container {

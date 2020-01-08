@@ -1,18 +1,18 @@
 <?php
-// auto-generated: 1578521672343
+// auto-generated: 1578523600242
 return [
-	"common.vendor.js" => "common.vendor.87f71090ce51c5f58e34.js",
-	"runtime.js" => "runtime.bf4cf21379b1de56194e.js",
+	"common.vendor.js" => "common.vendor.0e1e178705709c05235e.js",
+	"runtime.js" => "runtime.0c2e3a1b17584601ee44.js",
 	"chat.vendor.css" => "chat.vendor.3cb7926ffb5823c823c9.css",
-	"chat.vendor.js" => "chat.vendor.68165bc402833561c88b.js",
-	"admin.js" => "admin.3331abfe1831afac1579.js",
-	"bigscreen.js" => "bigscreen.798769b376746933b43a.js",
-	"chat.js" => "chat.79be05ec530ec8524d62.js",
-	"profile.js" => "profile.d8cace99b361e7dc7738.js",
-	"streamchat.js" => "streamchat.33d3a5916e33231a4647.js",
-	"votechat.js" => "votechat.acd6fdc8cb527e5bff2a.js",
-	"web.css" => "web.505169de0f157897a956.css",
-	"web.js" => "web.b7b2293474ee47801875.js",
+	"chat.vendor.js" => "chat.vendor.2fc792f537f1c4bb9f2f.js",
+	"admin.js" => "admin.a5a2228bee9a938ebd95.js",
+	"bigscreen.js" => "bigscreen.151975196dd8baccc4a9.js",
+	"chat.js" => "chat.17adaa5bf7dd8abb69e4.js",
+	"profile.js" => "profile.70da701bb149f4c29e1d.js",
+	"streamchat.js" => "streamchat.a87b6ad34c1a9dc3a14d.js",
+	"votechat.js" => "votechat.6d30683cf5107079b38e.js",
+	"web.css" => "web.acc90201675b51ec5f8b.css",
+	"web.js" => "web.a9177aaa55395a7d7349.js",
 	"font/style.scss" => "font/fa-solid-900.woff2",
 	"img/style.scss" => "img/sl-logo.png"
 ];
