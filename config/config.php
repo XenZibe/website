@@ -18,7 +18,7 @@ return [
     'allowImpersonation' => false,  // MUST BE OFF ON LIVE AT ALL TIMES. usage: /impersonate?user=Cene or /impersonate?userId=12
 
     'embed' => [
-        'stream' => '',
+        'stream' => 'https://player.twitch.tv/?channel=profrisky',
         'chat' => '/embed/chat'
     ],
 

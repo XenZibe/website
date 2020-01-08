@@ -15,10 +15,11 @@ use Destiny\Common\Config;
 
     <?php include 'seg/nav.php' ?>
 
+
     <div id="bigscreen-layout">
         <div id="stream-panel">
             <div id="stream-wrap">
-                <iframe seamless="seamless" src="<?= Config::$a['embed']['stream'] ?>" allowfullscreen></iframe>
+                <iframe seamless="seamless" src="<?php echo(Config::$a['embed']['stream']); ?>" allowfullscreen></iframe>
             </div>
         </div>
         <div id="chat-panel">
