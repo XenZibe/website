@@ -20,8 +20,9 @@ $info = $cache->fetch(TwitchWebHookService::CACHE_KEY_STREAM_STATUS);
                 <i class="fab fa-discord"></i>
             </a>
             <div>
-                <h3>Debate me</h3>
-                <p>Join the <a href="/discord">discord</a>. <br/>You're welcome!</p>
+                <h3>Chat with me!</h3>
+                <p>Join the <a href="/discord">discord</a>.</p>
+                <p>I announce when I go live in here and </br>  chat to viewers when  the stream is off. </br> Viewer suggestions for games always welcome!</p>
             </div>
         </div>
 
