@@ -42,7 +42,6 @@
     "jquery-validation": "^1.19.1",
     "moment": "^2.24.0",
     "popper.js": "^1.15.0",
-    "roboto-fontface": "^0.10.0",
     "throttle-debounce": "^2.1.0",
     "webpack-manifest-plugin": "^2.0.4",
     "whatwg-fetch": "^3.0.0"

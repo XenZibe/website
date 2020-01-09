@@ -1,10 +1,6 @@
 @import "common";
 @import "./bootstrap";
-@import "~roboto-fontface/css/roboto/roboto-fontface.css";
-@import "~@fortawesome/fontawesome-free/css/fontawesome.css";
-@import "~@fortawesome/fontawesome-free/css/brands.css";
-@import "~@fortawesome/fontawesome-free/css/solid.css";
-@import "~@fortawesome/fontawesome-free/css/regular.css";
+
 
 .hidden { // TODO refactor out
   display: none !important;
@@ -484,7 +480,6 @@ body.no-brand .navbar-dark .navbar-nav .nav-link {
 #footer {
   color: $text-color2;
   line-height: 18px;
-  text-shadow: 1px 1px 1px black;
   background-color: $color-surface-dark1;
   border-top: 1px solid $color-surface-dark3;
   margin-top: 15px;
