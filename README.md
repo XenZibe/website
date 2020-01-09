@@ -1,5 +1,5 @@
-# Destiny.gg
-Source code for the website [www.destiny.gg](http://www.destiny.gg/)
+# ProFrisky.co.uk
+Source code for the website [profrisky.co.uk](https://profrisky.co.uk)
 This is a work in progress!
 
 ## License
