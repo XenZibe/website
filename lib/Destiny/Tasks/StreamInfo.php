@@ -23,7 +23,8 @@ class StreamInfo implements TaskInterface {
         );
         if (!empty($info)) {
             $cache->save('lasttimeonline', $info['ended_at']);
-            $path = ImageDownloadUtil::download($info['preview'], true);
+var_dump($info);
+            $path = ImageDownloadUtil::download($info['preview']['medium'], true);
             if (!empty($path)) {
                 $info['preview'] = Config::cdni() . '/' . $path;
             }

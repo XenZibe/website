@@ -103,15 +103,15 @@ return [
     ],
 
     'twitch_webhooks' => [
-        'client_id' => '',
-        'callback' => '',
-        'secret' => '',
+        'client_id' => '2k3e87y57a32yssueif62cbh5j2nfb',
+        'callback' => 'https://streamupdater.com/login/twitch/callback',
+        'secret' => '16i5dm19cis1exhkehy0652howhknt',
     ],
 
     'twitch_api' => [
-        'client_id' => '',
-        'client_secret' => '',
-        'redirect_uri' => ''
+        'client_id' => '2k3e87y57a32yssueif62cbh5j2nfb',
+        'client_secret' => '16i5dm19cis1exhkehy0652howhknt',
+        'redirect_uri' => 'https://streamupdater.com/login/twitch/callback'
     ],
 
     'cookie' => [

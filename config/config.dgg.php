@@ -30,7 +30,7 @@ return [
 
     'meta' => [
         'shortName'      => 'Profrisky.co.uk',
-        'title'          => 'Profrisky - Scottish Game Streamer',
+        'title'          => 'Profrisky - Game Streamer',
         'domain'         => 'profrisky.co.uk',
         'author'         => 'Gary McDonald',
         'description'    => 'Gary (Profrisky) McDonald is a streamer, primarily playing games such as CS:GO, Fallout and other Top Titles on PC.',

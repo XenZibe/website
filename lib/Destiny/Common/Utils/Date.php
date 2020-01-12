@@ -19,7 +19,7 @@ abstract class Date {
         return new DateTime();
     }
 
-    public static function getDateTime($time = 'NOW'): DateTime {
+    public static function getDateTime($time = "now"): DateTime {
         try {
             if (!is_numeric($time)) {
                 $date = new DateTime($time);
@@ -29,9 +29,6 @@ abstract class Date {
             }
         } catch (Exception $e) {
             $date = new DateTime();
-        }
-        if ($date != null) {
-            $date->setTimezone(new DateTimeZone(ini_get('date.timezone')));
         }
         return $date;
     }
